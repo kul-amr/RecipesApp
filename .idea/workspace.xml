@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393ad565-7f3c-4303-a186-6abc7181083f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/controller/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/controller/auth_controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/controller/course_controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/controller/ingredient_controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/controller/user_controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/course.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/ingredient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/invalidToken.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/recipe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/recipeingredient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/model/user.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/auth_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/course_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/ingredient_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/invalidtoken_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/recipe_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/service/user_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/util/dao.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main/util/decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests/base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests/test_auth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests/test_config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests/test_user_model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_controller.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course_controller.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/main/controller/course_controller.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="424">
@@ -92,6 +64,16 @@
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="881">
+              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -696,14 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/main/controller/course_controller.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
@@ -711,6 +685,14 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
